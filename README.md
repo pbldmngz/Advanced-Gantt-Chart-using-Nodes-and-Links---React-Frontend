@@ -2,7 +2,7 @@
  
 Run `npm start` (or `npm run dev`) to initiate the app.
 
-Used a charting library and an algorithm to figure position, order and sizes of boxes to form an interconected Gantt chart, ordering the nodes by dates.
+> Used a charting library and an algorithm to figure position, order and sizes of boxes to form an interconected Gantt chart, ordering the nodes by dates.
 
 Try running the project. There are example files on /test_files.
 
